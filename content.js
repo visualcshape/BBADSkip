@@ -3,8 +3,6 @@
  */
 
 (function(){
-    console.log("[BS] ...")
-
     var videoDiv = $('div.scontent').get(0);
 
     var videoDivObserver = new MutationObserver(function(mutations){

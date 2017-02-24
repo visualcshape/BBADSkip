@@ -6,7 +6,7 @@ BiliBili AD Skipper
  A *Chrome extension* can skip AD section on BiliBili.
  
 #### Notice
- Support **HTML5 Player**
+ Now only supports **HTML5 Player**
  
  SWF supports coming soon.
  
