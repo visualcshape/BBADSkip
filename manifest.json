@@ -24,8 +24,6 @@
   ],
   "permissions":[
     "http://bangumi.bilibili.com/*",
-    "http://data.bilibili.com/*",
-    "webRequest",
-    "webRequestBlocking"
+    "http://data.bilibili.com/*"
   ]
 }

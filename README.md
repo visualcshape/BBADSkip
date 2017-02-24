@@ -8,9 +8,11 @@ Simple BiliBili AD Skipper
 No special requirement.
  
 #### Supported Player
- Now supports **HTML5 Player** and **SWF Player**.
+ Supports **HTML5 Player** and **SWF Player**.
  
 #### Installation
 1. Git clone.
 2. Please refer to [Load extension](https://developer.chrome.com/extensions/getstarted#unpacked)
 
+#### Remark
+ Very simple, no packaged ,not elegant, sorry.
