@@ -2,15 +2,15 @@ BiliBili AD Skipper
 ---
 
 #### Introduction
+ Due to the time wasted on buffering AD video, this *Chrome extension* can skip AD section on BiliBili.
  
- A *Chrome extension* can skip AD section on BiliBili.
+#### Requirement
+No special requirement.
  
-#### Notice
- Now only supports **HTML5 Player**
+#### Supported Player
+ Now supports **HTML5 Player** and **SWF Player**.
  
- SWF supports coming soon.
- 
-#### Instruction
-
-Please refer to [Load extension](https://developer.chrome.com/extensions/getstarted#unpacked)
+#### Installation
+1. Git clone.
+2. Please refer to [Load extension](https://developer.chrome.com/extensions/getstarted#unpacked)
 
