@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Simple BiliBili AD Skipper",
+  "description": "",
+  "version": "0.1",
+  "browser_action":{
+    "default_icon":{
+      "32": "images/32.png"
+    },
+    "default_title": "BiliBili AD Skipper",
+    "default_popup": "popup.html"
+  },
+  "background":{
+    "scripts":[],
+    "persistent": false
+  },
+  "content_scripts":[
+    {
+      "matches": ["http://bangumi.bilibili.com/*"],
+      "css":[],
+      "js":["jq.js", "content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions":[
+    "http://bangumi.bilibili.com/*",
+    "debugger"
+  ]
+}
