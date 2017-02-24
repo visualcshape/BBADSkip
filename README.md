@@ -1,8 +1,8 @@
-BiliBili AD Skipper
+Simple BiliBili AD Skipper
 ---
 
 #### Introduction
- Due to the time wasted on buffering AD video, this *Chrome extension* can skip AD section on BiliBili.
+ Due to the time wasted on buffering AD video, this simple *Chrome extension* can skip AD section on BiliBili.
  
 #### Requirement
 No special requirement.
