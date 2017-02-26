@@ -1,6 +1,4 @@
-/**
- * Created by Vodalok on 2017/2/24.
- */
+
 /*!
  * jQuery JavaScript Library v3.1.1
  * https://jquery.com/
