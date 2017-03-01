@@ -2,17 +2,16 @@ Simple BiliBili AD Skipper
 ---
 
 #### Introduction
- Due to the time wasted on buffering AD video, this simple *Chrome extension* can skip AD section on BiliBili.
+ 不約，用來跳過BiliBili廣告的
  
 #### Requirement
-No special requirement.
+無
  
 #### Supported Player
  Supports **HTML5 Player** and **SWF Player**.
  
 #### Installation
-1. Git clone.
-2. Please refer to [Load extension](https://developer.chrome.com/extensions/getstarted#unpacked)
-
+1. 下載ZIP
+2. 打開Chrome的設定頁面．解壓縮壓縮檔後將資料夾拖到chrome extension標籤頁完成安裝．
 #### Remark
- Very simple, no packaged ,not elegant, sorry.
+很簡單的擴充，供不介意的人使用．
